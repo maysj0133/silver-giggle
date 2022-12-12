@@ -1,0 +1,29 @@
+[LANGUAGE]
+LANGUAGE_NAME=Czech
+LANGUAGE=Èesky
+TEST=Prohlížení
+TESTTT=Heslo na prohlížení
+VIEW=Heslo
+VIEWTT=Obnovené heslo
+ABOUT=O programu
+ABOUTTT=Informace o programu
+WEBPAGE=Web.str.
+ENABLE=Zavøít
+ENABLETT=Ukonèit zobrazování hesla
+TOPMOST=vždy nahoøe
+OPTIONS=Volba
+OPTIONSTT=Zobraz heslo nebo volba jazyka
+HELP=Nápovìda
+HELPTT=Zobraz stránku ètimì
+RECOVERYIE=Obnov heslo v Internet Exploreru
+PASSWORDFOR=Heslo pro
+ENABLED=Povolit
+DISABLED=Zakázat
+SOUND=Zvuk
+DOWNLOADAMLPAGES=Stahni Aml stránku
+RSSFEED=RSS tok
+ADVT=HippoEDIT -\ndein textový editor
+ADVTTT=Dobrý nástroj na editování tvého JavaScriptu, PHP, Perl, HTML a dalších
+ADVTLINK=http://www.hippoedit.com/?lang=de
+AMLPAGESTEXT=Aml stránky pro organizování pošty
+AMLPAGESFILE=http://www.amlpages.com/about_de.shtml
